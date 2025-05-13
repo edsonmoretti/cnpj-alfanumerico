@@ -1,0 +1,6 @@
+name: cnpj_alfanumerico
+description: Biblioteca para validação e cálculo de dígitos verificadores de CNPJ alfanumérico
+version: 1.0.0
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
