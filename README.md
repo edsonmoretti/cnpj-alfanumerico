@@ -100,8 +100,3 @@ Cada implementação segue a mesma lógica de negócio, com adaptações idiomá
 MIT — Sinta-se livre para usar, adaptar e contribuir.
 
 ---
-
-`
-`
-
-`
