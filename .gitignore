@@ -1,0 +1,88 @@
+# VSCode
+.vscode/
+.history/
+
+# JetBrains IDEs (IntelliJ, PhpStorm, PyCharm, etc)
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vcxproj.user
+*.pdb
+*.cache
+*.dbmdl
+
+# MacOS
+.DS_Store
+
+# Linux
+*~
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Node
+node_modules/
+
+# Composer
+/vendor/
+
+# Dart/Flutter
+.dart_tool/
+.packages
+.pub/
+build/
+
+# Rust
+/target/
+
+# Go
+/bin/
+/pkg/
+
+# Java
+*.class
+/out/
+
+# Swift
+.build/
+DerivedData/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Logs
+*.log
+
+# Others
+*.swp
+*.bak
+*.tmp
